@@ -31,6 +31,8 @@ Hello! My name is Juan Pablo Gómez Perdomo. I am a software technology apprenti
 <img src="https://flagcdn.com/w40/it.png" width="25"/> Italian 
 <img src="https://flagcdn.com/w40/fr.png" width="25"/> French  
 
+---
+
 ### 🔭 Currently Working On
 
 - Developing software systems for educational and business applications.
