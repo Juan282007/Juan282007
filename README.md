@@ -2,6 +2,14 @@
 
 ---
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 ### 💻 About Me
 
 Hello! My name is Juan Pablo Gómez Perdomo. I am a software technology apprentice at the SENA with a strong command of English and a passion for learning other languages, including Portuguese, Italian, and French. In my free time, I enjoy reading books, listening to music, and playing video games. I am enthusiastic about technology, software development, and continuously improving my skills to build innovative solutions.
