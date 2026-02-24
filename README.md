@@ -67,4 +67,4 @@ Hello! My name is Juan Pablo Gómez Perdomo. I am a software technology apprenti
 ### ⚡ Fun Fact
 
 - I enjoy solving algorithm challenges and exploring new tech trends in my free time.
-- Coffee and energy drinks fuel my coding marathons ☕💻
+- Coffee and energy drinks fuel my coding marathons ⚡🥤☕💻
