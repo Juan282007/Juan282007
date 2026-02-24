@@ -39,11 +39,11 @@ Hello! My name is Juan Pablo Gómez Perdomo. I am a software engineering student
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juan282007&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=Juan282007&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan282007&layout=compact&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Juan282007&show_icons=true&theme=tokyonight)
 
 ---
 
