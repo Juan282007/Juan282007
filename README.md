@@ -62,9 +62,7 @@ Hello! My name is Juan Pablo Gómez Perdomo. I am a software technology apprenti
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan282007&layout=donut&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Juan282007&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Juan282007&theme=tokyo-night)
 
 ---
 
