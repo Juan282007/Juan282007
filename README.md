@@ -25,11 +25,7 @@ Hello! My name is Juan Pablo Gómez Perdomo. I am a software technology apprenti
 
 ### 🌎 Languages
 
-🇨🇴 Spanish
-🇺🇸 English
-🇧🇷 Portuguese 
-🇮🇹 Italian
-🇫🇷 French 
+🇨🇴 🇺🇸 🇧🇷 🇮🇹 🇫🇷
 
 ### 🔭 Currently Working On
 
