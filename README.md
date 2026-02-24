@@ -4,7 +4,7 @@
 
 ### 💻 About Me
 
-Hello! My name is Juan Pablo Gómez Perdomo. I am a software engineering student with a strong command of English and a passion for learning other languages, including Portuguese, Italian, and French. In my free time, I enjoy reading books, listening to music, and playing video games. I am enthusiastic about technology, software development, and continuously improving my skills to build innovative solutions.
+Hello! My name is Juan Pablo Gómez Perdomo. I am a software engineering apprentice at the SENA with a strong command of English and a passion for learning other languages, including Portuguese, Italian, and French. In my free time, I enjoy reading books, listening to music, and playing video games. I am enthusiastic about technology, software development, and continuously improving my skills to build innovative solutions.
 
 ---
 
