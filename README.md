@@ -25,7 +25,11 @@ Hello! My name is Juan Pablo Gómez Perdomo. I am a software technology apprenti
 
 ### 🌎 Languages
 
-🇨🇴 🇺🇸 🇧🇷 🇮🇹 🇫🇷
+<img src="https://flagcdn.com/w40/co.png" width="25"/> Colombia  
+<img src="https://flagcdn.com/w40/us.png" width="25"/> United States  
+<img src="https://flagcdn.com/w40/br.png" width="25"/> Brazil  
+<img src="https://flagcdn.com/w40/it.png" width="25"/> Italy  
+<img src="https://flagcdn.com/w40/fr.png" width="25"/> France  
 
 ### 🔭 Currently Working On
 
