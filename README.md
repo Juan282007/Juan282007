@@ -27,9 +27,6 @@ Hello! My name is Juan Pablo Gómez Perdomo. I am a software technology apprenti
 
 <img src="https://flagcdn.com/w40/co.png" width="25"/> Spanish 
 <img src="https://flagcdn.com/w40/us.png" width="25"/> English 
-<img src="https://flagcdn.com/w40/br.png" width="25"/> Portuguese 
-<img src="https://flagcdn.com/w40/it.png" width="25"/> Italian 
-<img src="https://flagcdn.com/w40/fr.png" width="25"/> French  
 
 ---
 
